@@ -2,6 +2,10 @@
 
 A suite of tools for working with the Tinder API.
 
+### Tools
+
+* **Auto Liker** – automatically swipes right on every profile in your recommendations (1 per second to avoid making too many requests)
+
 ### Dependencies
 
 * Node 7
