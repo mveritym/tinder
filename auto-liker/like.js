@@ -40,7 +40,5 @@ const recursiveLike = async () => {
   await likeProfiles();
   recursiveLike();
 };
-//
-// console.log(ID);
-// console.log(TOKEN);
+
 recursiveLike();
