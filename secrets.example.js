@@ -1,4 +1,6 @@
 module.exports = {
-  ID: 'USER_ID',
-  TOKEN: 'USER_ACCESS_TOKEN'
+  "LOGIN":"your facebook login",
+  "PASSWORD":"your facebook password",
+  "ID":"your facebook ID",
+  "TOKEN":"your authorization token; see get-creds"
 };
